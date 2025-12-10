@@ -1,0 +1,31 @@
+.home-page-title {
+    background-color: rgb(255, 118, 191);
+    padding: 20px 0px;
+    text-align: center; 
+}
+
+body{
+    background-color: seashell;
+}
+
+.recipe-list {
+    text-align: center;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+a {
+    text-decoration: none;
+    background-color: burlywood;
+    color: black;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+li {
+    margin: 20px;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
